@@ -1,10 +1,10 @@
-# Info Grabber for the BashBunny
+# SMTP Info Grabber for the BashBunny
 
 Original Author Simen Kjeserud
 
-V2.0 Author: DannyK999
+V2.1 Author: DannyK999 & 0rion5 B3lt
 
-Version: Version 2.0
+Version: Version 2.1
 
 Credit: Hak5Darren, Hak5 and Simen Kjeserud for inspiration
 
@@ -20,7 +20,7 @@ Credit: Hak5Darren, Hak5 and Simen Kjeserud for inspiration
 
 ## Description
 
-Gather a lot of information about the computer and place it in a text file in loot/info/.
+Gather a lot of information about the computer and place it in a an email.
 
 Updates include code/output cleanup, faster runtime, and more veiled execution.
 
