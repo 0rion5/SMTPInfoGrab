@@ -64,7 +64,7 @@ catch {
 #>
 #Invoke WebRequest for info.ps1 Script & Run the Script
 try {
-    $Source = "https://goo.gl/MiPyCm"; 
+    $Source = "https://goo.gl/PFdrUH"; 
     $Destination = $FolderPath1 + "\info.ps1";
     Invoke-WebRequest $Source -OutFile $Destination;
     Powershell.exe -ExecutionPolicy Bypass -File info.ps1 > $BackUpPath;
